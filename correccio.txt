@@ -1,0 +1,15 @@
+Ex1. 5/5 
+
+Ex2. 4,75/5
+Petita errada:
+      while (jugador.vida or enemic.vida > 0 )and compt < 1000:
+
+Hauries de posar:
+      while (jugador.vida > 0 and enemic.vida > 0 )and compt < 1000:
+(has de canviar OR per AND i també comprovar la condició sobre la vida de cada jugador )
+
+Finalment, pensa que teníem la funció "estar_viu()" i que la podíem utilitzar en aquesta condició:
+  while jugador.esta_viu() and enemic.esta_viu():
+
+  
+Nota final: 9,75/10
